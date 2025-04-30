@@ -1,0 +1,1 @@
+The License Management System(LMS) is a console base application that is made for managing license system of Nepal. LMS has features of user registration, user login, admin login for reviewing applied license and to approve or reject license. It makes system efficient and reduce manual workload for Department of Transport.
